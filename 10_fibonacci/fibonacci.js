@@ -12,9 +12,7 @@ const fibonacci = function(num) {
         i++
         count++;
     }
-    // console.log(sequence[num - 1])
-    // console.log(num);
-    // console.log(count);
+
     return sequence[num];
 };
 
